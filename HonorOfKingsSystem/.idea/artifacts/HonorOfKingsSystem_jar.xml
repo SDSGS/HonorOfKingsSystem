@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="HonorOfKingsSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HonorOfKingsSystem_jar</output-path>
+    <root id="root">
+      <element id="archive" name="HonorOfKingsSystem.jar">
+        <element id="module-output" name="HonorOfKingsSystem" />
+        <element id="dir-copy" path="D:/jdbc/out/production/jdbc" />
+      </element>
+      <element id="file-copy" path="D:/jdbc/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar" />
+      <element id="file-copy" path="D:/music/JLayer1.0.1/jl1.0.1.jar" />
+    </root>
+  </artifact>
+</component>
